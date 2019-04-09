@@ -1,13 +1,22 @@
-import 'package:flutter_html_view/flutter_html_view.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 
-String html = '<body>Hello world! <a href="www.baidu.com">HTML5 rocks!';
+void main() => runApp(MyApp());
 
-new HtmlView(
-  data: html,
-  baseURL: "", 
-    //optional, type String
-  onLaunchFail: (url) { 
-    //optional, type Function
-    print("launch $url failed");
+class MyApp extends StatelessWidget {
+
+  @override
+  Widget build(BuildContext context) {
+    Widget titleSection = new MaterialApp(
+      routes: {
+        "/": (_) => new WebviewScaffold(
+          url: "https://www.plm.automation.siemens.com/global/en/support/docs.html",
+          appBar: new AppBar(
+            title: new Text("Siehelp"),
+          ),
+        ),
+      },
+    );
+    return titleSection;
   }
-)
+}
