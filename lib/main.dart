@@ -1,22 +1,51 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(new MaterialApp(
+    title: '页面跳转',
+    home: new FirstScreen(),
+  ));
+}
 
-class MyApp extends StatelessWidget {
-
+class FirstScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    Widget titleSection = new MaterialApp(
-      routes: {
-        "/": (_) => new WebviewScaffold(
-          url: "https://www.plm.automation.siemens.com/global/en/support/docs.html",
-          appBar: new AppBar(
-            title: new Text("Siehelp"),
-          ),
+    return new Scaffold(
+      appBar: new AppBar(
+        title: new Text('第一个页面'),
+         backgroundColor: Colors.red,
+      ),
+      body: new Center(
+        child: new RaisedButton(
+          child: new Text('跳转'),
+          onPressed: () {
+            Navigator.push(
+              context,
+              new MaterialPageRoute(builder: (context) => new SecondScreen()),
+            );
+          },
         ),
-      },
+      ),
     );
-    return titleSection;
+  }
+}
+
+class SecondScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return new Scaffold(
+      appBar: new AppBar(
+        title: new Text('第二个页面'),
+        backgroundColor: Colors.brown,
+      ),
+      body: new Center(
+        child: new RaisedButton(
+          onPressed: () {
+            Navigator.pop(context);
+          },
+          child: new Text('返回'),
+        ),
+      ),
+    );
   }
 }
