@@ -10,15 +10,15 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		/3KwizJgeSMhiGpYOKQxubhC4Qo=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		8Eg+f3qfbnydCo65zUUTI2L/o/k=
+		08j9sHMAknE0PKnTVoswi9Ms7hM=
 		</data>
 		<key>flutter_assets/LICENSE</key>
 		<data>
-		1IzqZQH/c1yc14hpXXbeUZYRPNs=
+		2fICjoDU3/NZYKtxx7T5M1lpYWw=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -30,11 +30,39 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		v3quWCHMszZMVKj4k/dK2ueCQ5c=
+		JAAdHkFtihghIs1UN0rFLP3Qctg=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		AlgKy1FbEPcZcd0kdJLLHtOy68I=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/assets/flutter.png</key>
+		<data>
+		Yey0mfTziGgyGwavi2PdcN07vlw=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/MaterialOutlineIcons1.ttf</key>
+		<data>
+		unFLPyNznUbf3Y79eYqdBrPJ7jE=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/ballot_icons.ttf</key>
+		<data>
+		68MK1uaegfen6vZF2FjnbXkepQc=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/flutter_icon_custom.ttf</key>
+		<data>
+		b3h/5FWU4Hq3Pg7rk5KJ2/FJVPw=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/materialdesignicons-webfont.ttf</key>
+		<data>
+		P8gRiwv6uRekcmiTJMgN+ZO9BJE=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/pub_icon.ttf</key>
+		<data>
+		84H2JNEpJ8ZClZXOmpn96XNj4/g=
+		</data>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/send_outline.ttf</key>
+		<data>
+		o9CwAHTsNyAq47A00ki+vctxCAk=
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
@@ -47,33 +75,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			/3KwizJgeSMhiGpYOKQxubhC4Qo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			kG1l5tDPd/Ol7TyWNE0jiba8e14g+JQ41zRZoItP4OQ=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Eg+f3qfbnydCo65zUUTI2L/o/k=
+			08j9sHMAknE0PKnTVoswi9Ms7hM=
 			</data>
 			<key>hash2</key>
 			<data>
-			+vlc4DeQNrQqihrbyAQ+GfLyhJJmk3V8JJTsYL09FIs=
+			ma7p0pO/Dde8AU45LeLWmJ4wJtkSy3L4AfCcQxFIPyU=
 			</data>
 		</dict>
 		<key>flutter_assets/LICENSE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1IzqZQH/c1yc14hpXXbeUZYRPNs=
+			2fICjoDU3/NZYKtxx7T5M1lpYWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			aGSvODk6bZwrq0pTj3AnGBUlFRrxHv8x0/R3guNGPr0=
+			1YsnLemaz4fIOyF5tJjX9NK//EJ6J28nvICy0NYwNyQ=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -102,11 +130,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v3quWCHMszZMVKj4k/dK2ueCQ5c=
+			JAAdHkFtihghIs1UN0rFLP3Qctg=
 			</data>
 			<key>hash2</key>
 			<data>
-			imMRK2JOciA4KAcxHACjzNyqS4sjLNNz7bxNQejQrzk=
+			KN79/NlfoL1MTVBI3YxeFy1uJM5EwMSaBASE88JGOyQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -118,6 +146,83 @@
 			<key>hash2</key>
 			<data>
 			ETQZmaktT/cBMTCTNJd49hWX7HSYPa18vp5zuIwK13c=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/assets/flutter.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yey0mfTziGgyGwavi2PdcN07vlw=
+			</data>
+			<key>hash2</key>
+			<data>
+			PHt0GoIje7BkHRNIaE4XyheXy+7Wk+NgXMOk5s0bl70=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/MaterialOutlineIcons1.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			unFLPyNznUbf3Y79eYqdBrPJ7jE=
+			</data>
+			<key>hash2</key>
+			<data>
+			QBC8zdUhyuuXGW7mCHEGt1YCrcqnq5pQS6UGojy96Hw=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/ballot_icons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			68MK1uaegfen6vZF2FjnbXkepQc=
+			</data>
+			<key>hash2</key>
+			<data>
+			TytFbSjJ8bw2FyZaWlh55g9y5jIYRSRffTNigLBGpTI=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/flutter_icon_custom.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b3h/5FWU4Hq3Pg7rk5KJ2/FJVPw=
+			</data>
+			<key>hash2</key>
+			<data>
+			uVLLAzBicEEi8P6bwtnqOneb32mNCHPCQxf/kqexRNU=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/materialdesignicons-webfont.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P8gRiwv6uRekcmiTJMgN+ZO9BJE=
+			</data>
+			<key>hash2</key>
+			<data>
+			/FUlfRziox+PQNqHx58q96WbpYQL3Wbp9olfVOeXVEM=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/pub_icon.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			84H2JNEpJ8ZClZXOmpn96XNj4/g=
+			</data>
+			<key>hash2</key>
+			<data>
+			9qv3Eb5FgH6QNZjUgp+wu1eSh8jVyxQj1WoAka5nOwo=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/groovin_material_icons/fonts/send_outline.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o9CwAHTsNyAq47A00ki+vctxCAk=
+			</data>
+			<key>hash2</key>
+			<data>
+			fRUIF82sIyPaoUyAVReemjB4VJKuSnKbqObFIyilNtk=
 			</data>
 		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
